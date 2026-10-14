@@ -1,0 +1,25 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# CMake and compiler output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Editor metadata
+.idea/
+.vscode/
+*.swp
+*~
